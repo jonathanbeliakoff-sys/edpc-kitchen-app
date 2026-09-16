@@ -1,0 +1,19 @@
+{
+  "name": "Electric Dough Pizza Co. Kitchen",
+  "short_name": "EDPC Kitchen",
+  "description": "Electric Dough Pizza Co. kitchen production and prep system",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF8EF",
+  "theme_color": "#071C22",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
